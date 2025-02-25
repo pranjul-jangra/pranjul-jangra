@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a frontend developer continuously improving my skills, and I'm gradually exploring backend development to become a more well-rounded developer.
+I'm a **frontend developer** who **loves building user-friendly, responsive, and visually appealing websites**. I enjoy turning ideas into interactive experiences and focusing on clean, efficient code. I have experience with various web technologies and frameworks, and I'm always eager to learn and improve my skills. Right now, I'm diving deeper into React.js and plan to expand into backend development to become a full-stack MERN developer.
 
 
 ## 🌐 Socials:
