@@ -1,6 +1,5 @@
 # 💫 About Me:
-🚀 Passionate Full Stack Developer (MERN) crafting user-centric, responsive, and scalable web applications. I focus on building clean, maintainable code and delivering seamless user experiences.<br><br>🧠 I approach development with a problem-solving mindset—breaking down complex features into manageable pieces and ensuring functionality across the full stack. From designing intuitive interfaces to handling API logic and database management, I’m driven by a deep understanding of how every layer contributes to the final product.<br><br>🔁 I believe in writing code that’s not only functional but also reusable and efficient. I embrace modern development practices like component-based architecture, version control, RESTful design, and iterative improvement.<br><br>🌱 I’m always exploring new tools and technologies to level up my development workflow, while staying grounded in principles that ensure performance, accessibility, and reliability.
-
+Full Stack Developer (MERN) passionate about transforming complex ideas into seamless, scalable web applications—balancing clean code, performance, and user-centric design while constantly exploring new technologies to push projects further.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pranjul-jangra-107700332/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pranjuljan68@gmail.com) 
